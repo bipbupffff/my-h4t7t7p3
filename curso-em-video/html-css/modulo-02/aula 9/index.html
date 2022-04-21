@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Modelo de Caixas</title>
+</head>
+<style>
+    body {
+        background-image: linear-gradient(to right, rgb(223, 130, 130), rgb(182, 0, 0));
+    }
+    h1 {
+        background-color: lightgray;
+        height: 300px;
+        width: 300px;
+        border-width: 10px;
+        border-style: solid;
+        border-color: darkslategray;
+
+        padding-top: 10px;
+        padding-right: 10px;
+        padding-bottom: 10px;
+        padding-left: 10px
+    }
+.test1 { 
+    background-color: lightgray;
+    height: 300px;
+    width: 300px;
+    border-width: 30px;
+    border-style: initial;
+    border-color: darkslategray;
+
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+
+        margin-top: 10px;   
+        margin-right: auto;
+        margin-bottom: 10px;
+        margin-left: auto;
+}
+.test2 {
+    background-color: lightgray;
+    height: 300px;
+    width: 300px;
+    border-width: 30px;
+    border-style: inherit;
+    border-color: darkslategray;
+
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+
+        margin-top: 10px;
+        margin-right: auto;
+        margin-bottom: 10px;
+        margin-left: auto;
+}
+.test3 {
+    background-color: lightgray;
+    height: 300px;
+    width: 300px;
+    border-width: 30px;
+    border-style: hidden;
+    border-color: darkslategray;
+
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+
+        margin-top: 10px;
+        margin-right: auto;
+        margin-bottom: 10px;
+        margin-left: auto;
+        
+        outline: 10px;
+}
+.test4 {
+    background-color: lightgray;
+    height: 300px;
+    width: 300px;
+    border-width: 30px;
+    border-style: groove;
+    border-color: rgb(176, 20, 207);
+
+    padding-top: 30px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+
+        margin-top: 10px;   
+        margin-right: auto;
+        margin-bottom: 10px;
+        margin-left: auto;
+}
+.test5 {
+    background-color: lightgray;
+    height: 300px;
+    width: 300px;
+    border-width: 30px;
+    border-style: double;
+    border-color: darkslategray;
+
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+
+        margin-top: 10px;
+        margin-right: auto;
+        margin-bottom: 10px;
+        margin-left: auto;
+}
+.test6 {
+    background-color: lightgray;
+    height: 300px;
+    width: 300px;
+    border-width: 30px;
+    border-style: dotted;
+    border-color: darkslategray;
+
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+
+        margin-top: 10px;
+        margin-right: auto;
+        margin-bottom: 10px;
+        margin-left: auto;
+}
+.test7 {
+    background-color: lightgray;
+    height: 300px;
+    width: 300px;
+    border-width: 30px;
+    border-style: dashed;
+    border-color: darkslategray;
+
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+
+        margin-top: 10px;
+        margin-right: auto;
+        margin-bottom: 10px;
+        margin-left: auto;
+}
+
+.test8 {
+    background-color: lightgray;
+    height: 300px;
+    width: 300px;
+    border-width: 30px;
+    border-style: solid;
+    border-color: darkslategray;
+
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+
+        margin-top: 10px;
+        margin-right: auto;
+        margin-bottom: 10px;
+        margin-left: auto;
+}
+
+    a {
+        border-width: 10px;
+        border-style: solid;
+        border-color: red;
+
+        padding-top: 10px;
+        padding-right: 10px;
+        padding-bottom: 10px;
+        padding-left: 10px
+    }
+    .paragrafo {
+        color: white;
+        background-color: blueviolet;
+        font-size: 20px;
+        width: 300px;
+
+        padding-top: 10px;
+        padding-right: 69px;
+        padding-bottom: 10px;
+        padding-left: 10px;
+
+        margin-top: 10px;
+        margin-right: auto;
+        margin-bottom: 10px;
+        margin-left: auto;
+
+    }
+
+
+</style>
+<body>
+    <h1>Exemplo de caixa box-level</h1>
+    <p>Parágrafos também são exemplos de caixas, mas os <a href="@">links são exemplos de caixas <strong>"Inline Level"</strong> </a> vamos ver tudo como isso funciona.</p>
+        <h1 class="test1"> border style = initial </h1>
+        <p class="paragrafo">Borda Inicial</p>
+        <h1 class="test2"> border style = inherit</h1>
+        <p class="paragrafo">Borda Herdada</p>
+        <h1 class="test3"> border style = hidden </h1>
+        <p class="paragrafo">Borda Oculta</p>
+        <h1 class="test4"> border style = groove </h1>
+        <p class="paragrafo">Borda Sulco</p>
+        <h1 class="test5"> border style = double </h1>
+        <p class="paragrafo">Borda Dupla</p>        
+        <h1 class="test6"> border style = dotted </h1>
+        <p class="paragrafo">Borda Pontilhada</p>
+        <h1 class="test7"> border style = dashed </h1>
+        <p class="paragrafo">Borda Tracejadas</p>
+        <h1 class="test8"> border style = solid  </h1>
+        <p class="paragrafo">Borda Solida</p>
+
+</body>
+</html>

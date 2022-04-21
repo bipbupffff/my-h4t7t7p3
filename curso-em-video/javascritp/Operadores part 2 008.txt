@@ -1,0 +1,56 @@
+Operadores Relacionais
+
+> Maior que
+< Menor que
+>= Maior Igual
+<= Menor igual
+== igual 
+!= diferente
+= recebe 
+
+
+5>2 verdadeiro
+7<4 falso
+8>=8 verdadeiro
+9<=7 falso
+5==5  verdadeiro
+4!=4 falso 
+
+! negação
+true=false
+false=true
+esse é só inverter 
+
+&& conjunção
+true && true = true
+true && false = false
+só é true se for os dois
+no portugol era "e"
+
+|| disjunção
+true || true = true
+false || true = true
+false || false = false
+no portugol era"ou"
+
+#Precedencia 
+*Operadores Aritmedicos
+
+() ** /
+
+*Operadores Relacionais
+=> =< > < ==
+
+Operadores Lógicos
+! Não
+&& "e"
+|| "ou"
+
+Operador Ternário
+teste ? true : false
+media >= 7.0 ? "Aprovado " : Reprovado
+
+?
+:
+
+

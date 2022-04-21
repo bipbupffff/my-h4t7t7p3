@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Midias</title>
+    <style>
+        body {
+            background: linear-gradient(#ff6961, #d05851, #a34741, #793732, #502723, #2b1815);}
+    
+    
+    </style>
+</head>
+<body>
+
+    <h1> Reproduzindo Áudio</h1>
+    <p>Vamos aprender a reproduzir áudios em HTML5</p>   
+        <audio preload="metadata" controls>
+            <source src="../ex011/midia/aud.mp3" type="audio/mpeg">
+            <source src="../ex011/midia/audio.ogg" type="audio/ogg">
+            <p>Infelizmente seu navegador não consegue reproduzir áudio.
+                <a href="../ex011/midia/aud.mp3">Baixe em MP3</a>
+            </p>
+        </audio>   
+    <h1>Imagem dinâmica</h1>
+    <p>Tente abrir esse site em vários dispositivos diferentes <br> ou simplesmente aumente e diminua o tamanho do seu navegador.</p>
+    <picture>
+        <source media="(max-width: 750px)" srcset="../ex011/img/300px.png" type="image/png">
+        <source media="(max-width: 1050px)" srcset="../ex011/img/700px.png" type="image/png">
+        <img src="../ex011/img/1000px.png" alt="Imagem_flexível">
+    </picture>
+<h1> Agora Vamos Exibir Um Video </h1>
+    <video controls poster="../ex011/TUMB.png" width="800px">
+        <source src="../ex011/video/meuv.m4v" type="video/mp4">
+        <source src="../ex011/video/meuv.webm" type="video/webm">
+        <source src="../ex011/video/meuv.mkv" type="video/mkv">
+        <source src="../ex011/video/meuv.ogv" type="video/ogg">
+        <p>Seu navegador não tem compatibilidade com reprodução de videos.</p>
+    </video>
+    <h1>Adicionando videos do YouTube</h1>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/5xy4n73WOMM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <h1>Adicionando videos do Vimeo</h1>
+    <iframe src="https://player.vimeo.com/video/289784427?h=d22e0dc682&color=ffffff&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+    <p><a href="https://vimeo.com/289784427">X Box - Forza Horizon 4 Trailer</a> from <a href="https://vimeo.com/user6487431">Lime Studios</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+</body>
+</html>

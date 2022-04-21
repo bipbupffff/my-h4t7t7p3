@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Em Qual Pais você vive?</h1>
+    QUAL É O PAIS <input type="text" name="pais" id="pais">
+    <input type="button" value="chegar" onclick="checar()">
+   <div id="s">
+
+   </div>
+   <script>
+        function checar()
+        {
+        var pais = window.document.querySelector('input#pais')
+        var result = window.document.querySelector('div#s')
+        var ppais = String(pais.value)
+        
+        if (ppais == 'brasil') {
+            result.innerHTML += `<p> Você é Brasileiro </p>`
+        } else { result.innerHTML += `<p>Você é Estrangeiro</p> `
+        }
+       
+    
+        }
+    </script>
+</body>
+</html>
