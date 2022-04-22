@@ -1,0 +1,15 @@
+C:\Users\Carlos\Documents\GitHub\my-h4t7t7p3\code-vs\MeuProjeto\MeuProjeto\bin\Debug\net6.0\MeuProjeto.exe
+C:\Users\Carlos\Documents\GitHub\my-h4t7t7p3\code-vs\MeuProjeto\MeuProjeto\bin\Debug\net6.0\MeuProjeto.deps.json
+C:\Users\Carlos\Documents\GitHub\my-h4t7t7p3\code-vs\MeuProjeto\MeuProjeto\bin\Debug\net6.0\MeuProjeto.runtimeconfig.json
+C:\Users\Carlos\Documents\GitHub\my-h4t7t7p3\code-vs\MeuProjeto\MeuProjeto\bin\Debug\net6.0\MeuProjeto.dll
+C:\Users\Carlos\Documents\GitHub\my-h4t7t7p3\code-vs\MeuProjeto\MeuProjeto\bin\Debug\net6.0\MeuProjeto.pdb
+C:\Users\Carlos\Documents\GitHub\my-h4t7t7p3\code-vs\MeuProjeto\MeuProjeto\obj\Debug\net6.0\MeuProjeto.csproj.AssemblyReference.cache
+C:\Users\Carlos\Documents\GitHub\my-h4t7t7p3\code-vs\MeuProjeto\MeuProjeto\obj\Debug\net6.0\MeuProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\Documents\GitHub\my-h4t7t7p3\code-vs\MeuProjeto\MeuProjeto\obj\Debug\net6.0\MeuProjeto.AssemblyInfoInputs.cache
+C:\Users\Carlos\Documents\GitHub\my-h4t7t7p3\code-vs\MeuProjeto\MeuProjeto\obj\Debug\net6.0\MeuProjeto.AssemblyInfo.cs
+C:\Users\Carlos\Documents\GitHub\my-h4t7t7p3\code-vs\MeuProjeto\MeuProjeto\obj\Debug\net6.0\MeuProjeto.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Documents\GitHub\my-h4t7t7p3\code-vs\MeuProjeto\MeuProjeto\obj\Debug\net6.0\MeuProjeto.dll
+C:\Users\Carlos\Documents\GitHub\my-h4t7t7p3\code-vs\MeuProjeto\MeuProjeto\obj\Debug\net6.0\refint\MeuProjeto.dll
+C:\Users\Carlos\Documents\GitHub\my-h4t7t7p3\code-vs\MeuProjeto\MeuProjeto\obj\Debug\net6.0\MeuProjeto.pdb
+C:\Users\Carlos\Documents\GitHub\my-h4t7t7p3\code-vs\MeuProjeto\MeuProjeto\obj\Debug\net6.0\MeuProjeto.genruntimeconfig.cache
+C:\Users\Carlos\Documents\GitHub\my-h4t7t7p3\code-vs\MeuProjeto\MeuProjeto\obj\Debug\net6.0\ref\MeuProjeto.dll

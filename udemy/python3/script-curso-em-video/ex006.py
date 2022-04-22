@@ -1,5 +1,0 @@
-numero = int(input('Digite um número: '))
-raizqr = numero ** (1/2)
-print (f'O dobro de {numero}, é = {numero*2}')
-print (f'O tiplo de {numero}, é = {numero*3}')
-print (f'A raiz quadrada de {numero}, é = {raizqr}')

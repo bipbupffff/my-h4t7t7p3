@@ -1,0 +1,15 @@
+C:\Users\Carlos\Documents\GitHub\my-h4t7t7p3\code-vs\funções\funções\bin\Debug\net6.0\funções.exe
+C:\Users\Carlos\Documents\GitHub\my-h4t7t7p3\code-vs\funções\funções\bin\Debug\net6.0\funções.deps.json
+C:\Users\Carlos\Documents\GitHub\my-h4t7t7p3\code-vs\funções\funções\bin\Debug\net6.0\funções.runtimeconfig.json
+C:\Users\Carlos\Documents\GitHub\my-h4t7t7p3\code-vs\funções\funções\bin\Debug\net6.0\funções.dll
+C:\Users\Carlos\Documents\GitHub\my-h4t7t7p3\code-vs\funções\funções\bin\Debug\net6.0\funções.pdb
+C:\Users\Carlos\Documents\GitHub\my-h4t7t7p3\code-vs\funções\funções\obj\Debug\net6.0\funções.csproj.AssemblyReference.cache
+C:\Users\Carlos\Documents\GitHub\my-h4t7t7p3\code-vs\funções\funções\obj\Debug\net6.0\funções.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\Documents\GitHub\my-h4t7t7p3\code-vs\funções\funções\obj\Debug\net6.0\funções.AssemblyInfoInputs.cache
+C:\Users\Carlos\Documents\GitHub\my-h4t7t7p3\code-vs\funções\funções\obj\Debug\net6.0\funções.AssemblyInfo.cs
+C:\Users\Carlos\Documents\GitHub\my-h4t7t7p3\code-vs\funções\funções\obj\Debug\net6.0\funções.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Documents\GitHub\my-h4t7t7p3\code-vs\funções\funções\obj\Debug\net6.0\funções.dll
+C:\Users\Carlos\Documents\GitHub\my-h4t7t7p3\code-vs\funções\funções\obj\Debug\net6.0\refint\funções.dll
+C:\Users\Carlos\Documents\GitHub\my-h4t7t7p3\code-vs\funções\funções\obj\Debug\net6.0\funções.pdb
+C:\Users\Carlos\Documents\GitHub\my-h4t7t7p3\code-vs\funções\funções\obj\Debug\net6.0\funções.genruntimeconfig.cache
+C:\Users\Carlos\Documents\GitHub\my-h4t7t7p3\code-vs\funções\funções\obj\Debug\net6.0\ref\funções.dll

@@ -1,0 +1,15 @@
+C:\Users\Carlos\Documents\GitHub\my-h4t7t7p3\code-vs\prong\prong\bin\Debug\net6.0\prong.exe
+C:\Users\Carlos\Documents\GitHub\my-h4t7t7p3\code-vs\prong\prong\bin\Debug\net6.0\prong.deps.json
+C:\Users\Carlos\Documents\GitHub\my-h4t7t7p3\code-vs\prong\prong\bin\Debug\net6.0\prong.runtimeconfig.json
+C:\Users\Carlos\Documents\GitHub\my-h4t7t7p3\code-vs\prong\prong\bin\Debug\net6.0\prong.dll
+C:\Users\Carlos\Documents\GitHub\my-h4t7t7p3\code-vs\prong\prong\bin\Debug\net6.0\prong.pdb
+C:\Users\Carlos\Documents\GitHub\my-h4t7t7p3\code-vs\prong\prong\obj\Debug\net6.0\prong.csproj.AssemblyReference.cache
+C:\Users\Carlos\Documents\GitHub\my-h4t7t7p3\code-vs\prong\prong\obj\Debug\net6.0\prong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\Documents\GitHub\my-h4t7t7p3\code-vs\prong\prong\obj\Debug\net6.0\prong.AssemblyInfoInputs.cache
+C:\Users\Carlos\Documents\GitHub\my-h4t7t7p3\code-vs\prong\prong\obj\Debug\net6.0\prong.AssemblyInfo.cs
+C:\Users\Carlos\Documents\GitHub\my-h4t7t7p3\code-vs\prong\prong\obj\Debug\net6.0\prong.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Documents\GitHub\my-h4t7t7p3\code-vs\prong\prong\obj\Debug\net6.0\prong.dll
+C:\Users\Carlos\Documents\GitHub\my-h4t7t7p3\code-vs\prong\prong\obj\Debug\net6.0\refint\prong.dll
+C:\Users\Carlos\Documents\GitHub\my-h4t7t7p3\code-vs\prong\prong\obj\Debug\net6.0\prong.pdb
+C:\Users\Carlos\Documents\GitHub\my-h4t7t7p3\code-vs\prong\prong\obj\Debug\net6.0\prong.genruntimeconfig.cache
+C:\Users\Carlos\Documents\GitHub\my-h4t7t7p3\code-vs\prong\prong\obj\Debug\net6.0\ref\prong.dll

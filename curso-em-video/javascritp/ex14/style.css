@@ -1,51 +1,33 @@
 @charset "UTF-8";
-
 * {
     margin: 0px;
     padding: 0px;
-}
-body {
+} body {
     background: rgb(70, 142, 236);
     font: normal 20px arial;
     
-}
-h1 {
+} h1 {
     padding-bottom: 5px;
     padding-top: 250px;
     margin: auto;
-}
-
-header {
+} header {
     color: white;
     text-align: center;
-}
-
-section {
+} section {
     background: white;
-    border-radius: 150px;    
+    border-radius: 10px;    
     width: 500px;
     height: 400px;
     display: block;
 
     margin: auto;
     box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.425);
-    
-
-}
-div {
+} div {
     margin-bottom: 20px;
     margin-top: 30px;
     text-align: center;
     padding: 8px;
-}
-
-div#msg {
-
-}
-div#foto {
-    
-}
-footer {
+} footer {
     color: white;
     text-align: center;
     font-style: italic;
@@ -56,5 +38,4 @@ footer {
     display: block;
     width: 200px;
     margin: auto;
-    
 }

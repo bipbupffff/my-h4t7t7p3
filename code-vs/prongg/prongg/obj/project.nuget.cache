@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "6aoUHr0G5vk528COEGvNBQZMCfDYM32k+BJH2Nwxxcyiyksh8uSuM0Q+NWKFQpVJcqdr3lo8LG2C+pOmupPTlQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Carlos\\Documents\\GitHub\\my-h4t7t7p3\\code-vs\\prongg\\prongg\\prongg.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Carlos\\.nuget\\packages\\opentk\\3.1.0\\opentk.3.1.0.nupkg.sha512",
+    "C:\\Users\\Carlos\\.nuget\\packages\\opentk.glcontrol\\3.1.0\\opentk.glcontrol.3.1.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'OpenTK 3.1.0' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto 'net6.0'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "OpenTK",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'OpenTK.GLControl 3.1.0' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto 'net6.0'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "OpenTK.GLControl",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
