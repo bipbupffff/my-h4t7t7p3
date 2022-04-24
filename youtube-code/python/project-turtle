@@ -1,0 +1,21 @@
+import turtle
+from unittest import case
+turtle.bgcolor("black")
+turtle = turtle.Turtle() 
+turtle.shape("turtle")
+turtle.speed(3)
+turtle.width(10)
+turtle.color("blue", "yellow")
+turtle.pencolor("red")
+turtle.penup()
+position = [0, 0]
+while True:
+    command: list [str] = input("Targtaruga >").strip().strip() #[ "draw" "line" "90"]
+    match command:
+
+        case ["move", *points]:
+            match points:
+                case [x, y]:
+                    turtle.goto(float(x), float(y))
+                    case [steps]:
+                        turtle.forward(float(steps))    
